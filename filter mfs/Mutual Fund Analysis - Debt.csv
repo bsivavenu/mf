@@ -1,0 +1,56 @@
+Fund type,Fund Name ,mean,Standard Deviation,Sharpe Ratio,Sortino Ratio,Beta,Alpha,Expense Ratio,R Square,Treynor Ratio,Lumpsum(Yes/No),SIP (Yes/No),1999-2001,2001-2003,2003-2005,2005-2007,2007-2009,2009-2011,2011-2013,2013-2015,2015-2017,2017-2018,2year  cgr,CAGR,DIFF
+glit funds ,ICICI Prudential Gilt Fund,8.26,6.59,0.28,0.51,1.17,1.1,0.90%,0.95,1.55,yes,yes,16.86,19.71,2.3,6.65,15.46,4.67,5.58,13,12.25,0.4,9.688,8.26,1.428
+glit funds ,DSP Government Securities Fund,7.06,5.36,0.11,0.19,0.94,0.04,1.39%,0.93,0.65,yes,yes,18.12,22.56,2.07,5.08,13.24,4.11,6.55,10.33,9.11,0.42,9.159,7.06,2.099
+glit funds ,Kotak Gilt Investment - Regular Plan,6.91,5.9,0.08,0.14,1.05,-0.18,1.44%,0.96,0.44,yes,yes,25.14,17.31,2.79,4.61,11.1,6.06,7,11.18,8.53,0.85,9.457,6.91,2.547
+glit funds ,JM G-Sec Fund,6.96,5.78,0.09,0.18,1.01,-0.1,0.00%,0.93,0.51,yes,no,17.81,18.04,1.79,3.65,16.54,3.92,10.21,9.18,9.59,-0.68,9.005,6.96,2.045
+glit funds ,Canara Robeco Gilt 1988 Fund - Regular Plan,7.77,5.46,0.24,0.54,0.94,0.75,1.25%,0.89,1.41,yes,yes,17.18,20.28,2.36,4.2,19.58,-0.98,9.16,9.06,13.1,0.8,9.474,7.77,1.704
+glit funds ,Aditya Birla Sun Life Government Securities Fund,8.27,6.23,0.29,0.48,1.1,1.16,1.17%,0.93,2.14,yes,yes,16.28,18.05,1.89,4.77,4.78,4.97,8.55,13.83,10.97,-0.22,8.387,8.27,0.117
+glit funds ,Tata Gilt Securities Fund,5.69,5.06,-0.15,-0.24,0.88,-1.29,1.40%,0.91,-0.86,yes,yes,17.92,23.96,1.37,4.32,5.67,3.87,7.77,11.85,10.17,-0.354,8.6546,5.69,2.9646
+glit funds ,UTI Gilt Fund - Regular Plan,7.91,5,0.29,0.7,0.83,0.96,0.93%,0.84,2.11,yes,yes,0,0,6.25,5.65,14.47,0.2,9.99,12.04,10.26,2.29,7.64375,7.91,-0.26625
+glit funds ,Franklin India Government Securities Fund,5.38,6.92,-0.15,-0.25,1.24,-1.82,1.74%,0.96,-0.04,yes,yes,0,19.74,3.69,5.67,14.43,3.57,3.72,12.76,8.01,-1.3,7.81,5.38,2.43
+,,,,,,,,,,,,,,,,,,2010-2012,2012-2014,2014-2016,2016-2018,,,,
+credit risk,Franklin India Credit Risk Fund,7.94,1.44,1.04,1.18,2.07,6,1.75%,0.12,0.72,yes,yes,,,,,,,10.45,10.7,8.72,2.74,8.1525,7.94,
+credit risk,BOI AXA Credit Risk Fund - Regular Plan,9.33,1.18,2.44,4.18,2.66,8.67,2.12%,0.3,1.08,yes,no,,,,,,,,,10.32,6.22,8.27,9.33,
+credit risk,HDFC Credit Risk Debt Fund - Regular Plan,8.59,1.39,1.55,2.6,3.27,9.25,1.78%,0.31,0.45,yes,yes,,,,,,,,10.59,9.57,1.33,7.16,8.59,
+credit risk,DHFL Pramerica Credit Risk Fund - Regular Plan,7.86,1.39,1.02,1.33,3.45,8.92,,0.37,0.41,yes,yes,,,,,,,,11.22,6.19,,8.7,7.86,
+credit risk,Invesco India Credit Risk Fund - Regular Plan,7.9,1.53,0.95,1.57,3.37,8.78,1.50%,0.29,0.43,yes,yes,,,,,,,,10.26,7.03,,8.6,7.9,
+credit risk,Aditya Birla Sun Life Credit Risk Fund - Regular Plan,8.39,1.72,1.13,1.61,3.3,9.11,1.69%,0.22,0.59,yes,yes,,,,,,,,,9.77,4.78,7.2,8.39,
+credit risk,ICICI Prudential Credit Risk Fund,7.52,1.49,0.72,1.11,3.08,7.77,1.79%,0.25,0.35,yes,yes,,,,,,9.13,9.35,9.33,5.63,,8.36,7.52,
+credit risk,UTI Credit Risk Fund - Regular Plan,7.59,1.32,0.87,1.67,3.22,8.15,1.67%,0.36,0.35,yes,yes,,,,,,,9.68,10.09,5.08,,8.28,7.59,
+credit risk,Kotak Credit Risk Fund Regular Plan,7.79,1.54,0.87,1.29,3.4,8.73,1.81%,0.29,0.4,yes,yes,,,,,,7.19,8.96,9.75,8.74,,8.66,7.79,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Liquid,Indiabulls Liquid Fund,7.15,0.21,3.41,7.11,0.51,1.82,0.17%,0.36,1.39,yes,yes,,,,,,,9.4,,,,,,
+Liquid,Union Liquid Fund,6.9,0.19,2.4,7.03,0.37,1.27,0.19%,0.23,1.21,yes,no,,,,,,,,,,,,,
+Liquid,Quant Liquid Plan,7.16,0.24,2.99,7.59,0.46,1.72,0.90%,0.22,1.56,yes,yes,,,,,,,,,,,,,
+Liquid,IDBI Liquid Fund,6.98,0.19,2.83,7.42,0.44,1.49,0.25%,0.32,1.22,yes,yes,,,,,,,,,,,,,
+Liquid,Essel Liquid Fund - Regular Plan,6.98,0.19,2.83,7.42,0.44,1.49,0.25%,0.23,1.89,yes,yes,,,,,,,,,,,,,
+Liquid,HSBC Cash Fund,7.02,0.19,3.05,6.01,0.34,1.32,0.14%,0.2,1.68,yes,yes,,,,,,,,,,,,,
+Liquid,Axis Liquid Fund,7.07,0.19,3.27,8.89,0.43,1.55,0.16%,0.3,1.47,yes,yes,,,,,,,,,,,,,
+Liquid,JM Liquid Fund,7.11,0.2,3.33,7.91,0.45,1.64,,0.31,1.47,yes,yes,,,,,,,,,,,,,
+Liquid,DHFL Pramerica Insta Cash Fund,7.09,0.21,3.11,6.13,0.46,1.64,0.18%,0.29,1.41,yes,yes,,,,,,,,,,,,,
+Liquid,Invesco India Liquid Fund,7.06,0.2,3.12,7.18,0.46,1.62,0.22%,0.32,1.34,yes,no,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+ Debt: Medium to Long Duration -,iCICI Prudential Bond Fund  |  Invest Now,6.91,3.08,0.15,0.25,1.27,,1.07%,0.86,1.05,yes,yes,,,,,,,,,,,,,
+ Debt: Medium to Long Duration -,Aditya Birla Sun Life Income Fund  |  Invest Online,6.37,5.52,-0.01,-0.02,2.35,,1.60%,0.96,-0.03,yes,yes,,,,,,,,,,,,,
+ Debt: Medium to Long Duration -,Quant Income Fund,4.89,2.3,-0.68,-0.87,0.68,,2.25%,0.46,-2.28,yes,yes,,,,,,,,,,,,,
+ Debt: Medium to Long Duration -,Kotak Bond Fund - Regular Plan  |  Invest Online,6.03,5.17,-0.08,-0.13,2.2,,185.00%,0.96,-0.19,yes,yes,,,,,,,,,,,,,
+ Debt: Medium to Long Duration -,Reliance Income Fund  |  Invest Online,6.47,4.97,0,0.01,2.12,,156.00%,0.97,0.01,yes,yes,,,,,,,,,,,,,
+ Debt: Medium to Long Duration -,UTI Bond Fund - Regular Plan,7.11,4.52,0.15,0.31,1.85,,172.00%,0.32,0.79,yes,yes,,,,,,,,,,,,,
+ Debt: Medium to Long Duration -,Canara Robeco Income Fund - Regular Plan,6.55,4.11,0.03,0.05,1.72,,190.00%,0.93,0.06,yes,yes,,,,,,,,,,,,,
+ Debt: Medium to Long Duration -,LIC MF Bond Fund  |  Invest Online,5.55,3.62,-0.25,-0.41,1.53,,113.00%,0.94,-0.58,yes,yes,,,,,,,,,,,,,
+ Debt: Medium to Long Duration -,IDFC Bond Fund Income Plan - Regular Plan  | Invest Online,6.52,4.32,0.02,0.03,1.72,,177.00%,0.84,0.04,yes,yes,,,,,,,,,,,,,
+ Debt: Medium to Long Duration -,Tata Income Fund - Regular Plan  |  Invest Online,6.21,3.7,-0.06,-0.11,1.54,,180.00%,0.91,-0.15,yes,yes,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+short duration,JM Short Term Fund,6.99,1.82,0.3,0.45,4.22,9.72,,N.A,0,yes,yes,,,,,,,,,,,,,
+short duration,UTI Short Term Income Fund - Regular Plan,7.39,1.63,0.58,0.99,3.96,9.56,88.00%,0.35,0.24,yes,yes,,,,,,,,,,,,,
+short duration,HDFC Short Term Debt Fund  |  ,7.34,1.02,0.87,1.44,2.44,6.19,40.00%,0.34,0.37,yes,yes,,,,,,,,,,,,,
+short duration,Essel Short Term Fund,6.11,1.06,-0.32,-0.51,2.63,5.37,125.00%,0.34,0.37,yes,yes,,,,,,,,,,,,,
+short duration,Quant Short Term Debt Fund,7.22,0.31,2.48,3.78,0.76,2.42,100.00%,0.26,0.27,yes,yes,,,,,,,,,,,,,
+short duration,Franklin India Short Term Income Plan - Retail Plan  | Invest Online Now,7.88,1.66,0.86,0.87,1.9,5.56,157.00%,0.08,0.75,yes,yes,,,,,,,,,,,,,
+short duration,L&T Short Term Bond Fund Fund  |  Invest Online,6.85,1.4,0.29,0.43,3.39,7.76,81.00%,0.35,0.27,yes,yes,,,,,,,,,,,,,
+short duration,Indiabulls Short Term Fund - Regular Plan,7.37,1.07,0.87,1.31,2.06,5.41,150.00%,0.22,0.45,yes,yes,,,,,,,,,,,,,
+short duration,Baroda Pioneer Short Term Bond Fund,7.78,0.83,1.61,3.11,1.66,4.95,130.00%,0.24,0.81,yes,yes,,,,,,,,,,,,,
+short duration,ICICI Prudential Short Term Fund  |  Invest Now,7.46,2.04,0.5,0.85,5.51,12.98,135.00%,0.43,0.33,yes,yes,,,,,,,,,,,,,
